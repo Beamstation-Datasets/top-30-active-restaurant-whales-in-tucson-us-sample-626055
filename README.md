@@ -9,9 +9,9 @@
 | Dataset ID | `626055` |
 | Location | Tucson |
 | Category | Restaurants |
-| Full dataset size | 549 records |
-| Free sample size | 57 records (10.38%) |
-| Last export | 2026-04-07T17:50:17.903562+00:00 |
+| Full dataset size | 571 records |
+| Free sample size | 57 records (9.98%) |
+| Last export | 2026-04-14T23:20:28.539639+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-whales-in-tucson-us-sample-626055/releases/download/sample-latest/beamstation_626055_restaurants-us-az_SAMPLE_DIST.csv) |
 
 ## What is in this sample
