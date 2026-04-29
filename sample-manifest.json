@@ -1,12 +1,12 @@
 {
-  "export_job_id": "32d9b126-04d0-45f5-8074-3d9c701c971d",
+  "export_job_id": "bcd26143-3498-48fa-a132-712628276f63",
   "id_short": 626055,
-  "published_at": "2026-04-22T07:46:29Z",
+  "published_at": "2026-04-29T07:50:45Z",
   "repo_name": "top-30-active-restaurant-whales-in-tucson-us-sample-626055",
   "sample_asset_name": "beamstation_626055_restaurants-us-az_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/626055/beamstation_626055_restaurants-us-az_SAMPLE_DIST.csv",
-  "sample_records": 48,
-  "sample_sha256": "dba783e250b2aad70a6ef7a6e4acba93e2210dd893e741449b59aa4d2f6c2b4b",
-  "sample_size_bytes": 212817,
-  "total_records": 485
+  "sample_records": 15,
+  "sample_sha256": "a8a12bdb3e6c2f63162c78567f4905330ed648ab6cebce906e5947928c6a10bf",
+  "sample_size_bytes": 79219,
+  "total_records": 158
 }
